@@ -2,7 +2,13 @@
   {
     "adult": false,
     "backdrop_path": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
-    "genre_ids": [16, 12, 14, 10751, 28],
+    "genre_ids": [
+      16,
+      12,
+      14,
+      10751,
+      28
+    ],
     "id": 527774,
     "original_language": "en",
     "original_title": "Raya and the Last Dragon",
@@ -18,7 +24,11 @@
   {
     "adult": false,
     "backdrop_path": "/gzJnMEMkHowkUndn9gCr8ghQPzN.jpg",
-    "genre_ids": [53, 28, 18],
+    "genre_ids": [
+      53,
+      28,
+      18
+    ],
     "id": 793723,
     "original_language": "fr",
     "original_title": "Sentinelle",
@@ -34,7 +44,12 @@
   {
     "adult": false,
     "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
-    "genre_ids": [28, 12, 878, 14],
+    "genre_ids": [
+      28,
+      12,
+      878,
+      14
+    ],
     "id": 791373,
     "original_language": "en",
     "original_title": "Zack Snyder's Justice League",
@@ -50,7 +65,12 @@
   {
     "adult": false,
     "backdrop_path": "/fev8UFNFFYsD5q7AcYS8LyTzqwl.jpg",
-    "genre_ids": [28, 35, 10751, 16],
+    "genre_ids": [
+      28,
+      35,
+      10751,
+      16
+    ],
     "id": 587807,
     "original_language": "en",
     "original_title": "Tom & Jerry",
@@ -66,7 +86,11 @@
   {
     "adult": false,
     "backdrop_path": "/z8TvnEVRenMSTemxYZwLGqFofgF.jpg",
-    "genre_ids": [14, 28, 12],
+    "genre_ids": [
+      14,
+      28,
+      12
+    ],
     "id": 458576,
     "original_language": "en",
     "original_title": "Monster Hunter",
@@ -82,7 +106,11 @@
   {
     "adult": false,
     "backdrop_path": "/6TPZSJ06OEXeelx1U1VIAt0j9Ry.jpg",
-    "genre_ids": [28, 80, 53],
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
     "id": 587996,
     "original_language": "es",
     "original_title": "Bajocero",
@@ -98,7 +126,11 @@
   {
     "adult": false,
     "backdrop_path": "/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
-    "genre_ids": [14, 28, 12],
+    "genre_ids": [
+      14,
+      28,
+      12
+    ],
     "id": 464052,
     "original_language": "en",
     "original_title": "Wonder Woman 1984",
@@ -114,7 +146,11 @@
   {
     "adult": false,
     "backdrop_path": "/drulhSX7P5TQlEMQZ3JoXKSDEfz.jpg",
-    "genre_ids": [18, 14, 878],
+    "genre_ids": [
+      18,
+      14,
+      878
+    ],
     "id": 581389,
     "original_language": "ko",
     "original_title": "승리호",
@@ -130,7 +166,9 @@
   {
     "adult": false,
     "backdrop_path": "/vKzbIoHhk1z9DWYi8kyFe9Gg0HF.jpg",
-    "genre_ids": [35],
+    "genre_ids": [
+      35
+    ],
     "id": 484718,
     "original_language": "en",
     "original_title": "Coming 2 America",
@@ -146,7 +184,11 @@
   {
     "adult": false,
     "backdrop_path": "/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg",
-    "genre_ids": [53, 28, 878],
+    "genre_ids": [
+      53,
+      28,
+      878
+    ],
     "id": 775996,
     "original_language": "en",
     "original_title": "Outside the Wire",
@@ -162,7 +204,10 @@
   {
     "adult": false,
     "backdrop_path": "/uQtqiAu2bBlokqjlURVLEha6zoi.jpg",
-    "genre_ids": [80, 18],
+    "genre_ids": [
+      80,
+      18
+    ],
     "id": 544401,
     "original_language": "en",
     "original_title": "Cherry",
@@ -178,7 +223,10 @@
   {
     "adult": false,
     "backdrop_path": "/7KL4yJ4JsbtS1BNRilUApLvMnc5.jpg",
-    "genre_ids": [18, 53],
+    "genre_ids": [
+      18,
+      53
+    ],
     "id": 649087,
     "original_language": "sv",
     "original_title": "Red Dot",
@@ -194,7 +242,10 @@
   {
     "adult": false,
     "backdrop_path": "/nz8xWrTKZzA5A7FgxaM4kfAoO1W.jpg",
-    "genre_ids": [878, 28],
+    "genre_ids": [
+      878,
+      28
+    ],
     "id": 651571,
     "original_language": "en",
     "original_title": "Breach",
@@ -210,7 +261,10 @@
   {
     "adult": false,
     "backdrop_path": "/vfuzELmhBjBTswXj2Vqxnu5ge4g.jpg",
-    "genre_ids": [53, 80],
+    "genre_ids": [
+      53,
+      80
+    ],
     "id": 602269,
     "original_language": "en",
     "original_title": "The Little Things",
@@ -226,7 +280,10 @@
   {
     "adult": false,
     "backdrop_path": "/iopYFB1b6Bh7FWZh3onQhph1sih.jpg",
-    "genre_ids": [28, 878],
+    "genre_ids": [
+      28,
+      878
+    ],
     "id": 399566,
     "original_language": "en",
     "original_title": "Godzilla vs. Kong",
@@ -242,7 +299,11 @@
   {
     "adult": false,
     "backdrop_path": "/jeAQdDX9nguP6YOX6QSWKDPkbBo.jpg",
-    "genre_ids": [14, 28, 878],
+    "genre_ids": [
+      14,
+      28,
+      878
+    ],
     "id": 590706,
     "original_language": "en",
     "original_title": "Jiu Jitsu",
@@ -258,7 +319,12 @@
   {
     "adult": false,
     "backdrop_path": "/fRrpOILyXuWaWLmqF7kXeMVwITQ.jpg",
-    "genre_ids": [27, 53, 12, 9648],
+    "genre_ids": [
+      27,
+      53,
+      12,
+      9648
+    ],
     "id": 522444,
     "original_language": "en",
     "original_title": "Black Water: Abyss",
@@ -274,7 +340,10 @@
   {
     "adult": false,
     "backdrop_path": "/yR27bZPIkNhpGEIP3jKV2EifTgo.jpg",
-    "genre_ids": [16, 10751],
+    "genre_ids": [
+      16,
+      10751
+    ],
     "id": 755812,
     "original_language": "fr",
     "original_title": "Miraculous World: New York, United HeroeZ",
@@ -290,7 +359,10 @@
   {
     "adult": false,
     "backdrop_path": "/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
-    "genre_ids": [10749, 18],
+    "genre_ids": [
+      10749,
+      18
+    ],
     "id": 613504,
     "original_language": "en",
     "original_title": "After We Collided",
@@ -306,7 +378,10 @@
   {
     "adult": false,
     "backdrop_path": "/u5WUCO6irZoq27qbYYrtLUrCGDV.jpg",
-    "genre_ids": [27, 53],
+    "genre_ids": [
+      27,
+      53
+    ],
     "id": 630586,
     "original_language": "en",
     "original_title": "Wrong Turn",

@@ -1,13 +1,13 @@
-import { MoviesGrid } from "./MoviesGrid";
-import styles from "./App.module.css";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { Movie } from "./pages/Movie";
+import { LandingPage } from "./pages/LandingPage";
+import { NotFound } from "./pages/NotFound";
+
+const router = createBrowserRouter([
+  { path: "/", element: <LandingPage />, errorElement: <NotFound /> },
+  { path: "/movie/:movieID", element: <Movie /> },
+]);
 
 export function Aplication() {
-  return (
-    <div className={styles.titulo}>
-      <header>Movies</header>
-      <main>
-        <MoviesGrid />
-      </main>
-    </div>
-  );
+  return <RouterProvider router={router} />;
 }
